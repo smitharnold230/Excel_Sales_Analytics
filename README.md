@@ -1,4 +1,4 @@
-# 📊 Sales & Finance Analysis Report
+# 📊Excel Financial (Sales & Finance Analysis Report)
 
 ## 🔹 Sales Report
 
